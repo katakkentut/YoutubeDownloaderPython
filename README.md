@@ -30,7 +30,7 @@ Download Youtube Video And Mp3 With Python.
 
 ## Change Output Directory
 
-- Change your own downloaded video directory on line 9
-- Change your own downloaded Mp3 directory on line 18
+- Change your downloaded video directory on line 9
+- Change your downloaded Mp3 directory on line 18
 
 
